@@ -1,0 +1,10 @@
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\bin\Debug\FunApp.exe.config
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\bin\Debug\FunApp.exe
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\bin\Debug\FunApp.pdb
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\obj\Debug\FunApp.csprojAssemblyReference.cache
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\obj\Debug\FunApp.Form1.resources
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\obj\Debug\FunApp.Properties.Resources.resources
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\obj\Debug\FunApp.csproj.GenerateResource.cache
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\obj\Debug\FunApp.csproj.CoreCompileInputs.cache
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\obj\Debug\FunApp.exe
+C:\Users\armyd\Documents\GitHub\FunApp\FunApp\obj\Debug\FunApp.pdb
